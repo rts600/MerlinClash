@@ -14,7 +14,7 @@
 #### https://t.me/+-kdPhx9FzEAwYjll
 
 
-支持路由器：
+支持路由器列表：
 
 ARM64:
 - AC86U
@@ -30,6 +30,7 @@ ARM64:
 - GT-AX6000
 - TX-AX6000(天选)
 - TUF-AX4200q(小旋风Pro)
+- BE88U
 
 AX32:
 - AX3000
