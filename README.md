@@ -1,4 +1,10 @@
-## MerlinClash Lite v24.09.02
+## MerlinClash Lite v24.12.23 双节特别版
+
+1. 修复订阅ua问题
+2. 添加zashboard面板
+3. 更新Mihomo 1.19
+4. 更新YACD面板
+5. 更新IP数据库
 
 #### 用于华硕路由器官改、梅改固件，基于规则的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2等方式科学上网。
 
@@ -31,6 +37,7 @@ ARM64:
 - TX-AX6000(天选)
 - TUF-AX4200q(小旋风Pro)
 - BE88U
+- BE86U
 
 AX32:
 - AX3000
