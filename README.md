@@ -1,4 +1,4 @@
-## MerlinClash Lite v24.12.23 双节特别版
+## MerlinClash Lite v2024最终版
 
 1. 修复订阅ua问题
 2. 添加zashboard面板
