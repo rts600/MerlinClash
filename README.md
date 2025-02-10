@@ -1,4 +1,5 @@
 ## MerlinClash Lite v2024最终版 
+（已上传Mihomo 1.19.2内核，如有需要可自行更新）
 
 1. 修复订阅ua问题
 2. 添加zashboard面板
