@@ -8,12 +8,12 @@
 #### 2. 移除网易云音乐/Koolproxy/Dlercloud/KCP/Dns2Socks等冗余代码
 #### 3. 大量优化Module_merlinclash & Clashconfig & Scripts代码
 #### 4. 移除SubConverter，减小jffs占用
-#### 5. 仅保留YACD面板
+#### 5. 仅保留ZASH面板
 #### 6. 布局调整，更直观
 
 
 #### https://t.me/+AEXpQiHTV7AyZGI1
-邀请名额还有42个...
+
 
 
 支持路由器列表：
@@ -36,7 +36,7 @@ ARM64:
 - BE86U
 - BE6500
 
-AX32:
+AX32: (几乎没有用户了，不再更新，老版本仍可继续使用)
 - AX3000
 - AX5400
 - AX6600
