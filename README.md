@@ -1,3 +1,5 @@
+## 预告：MerlinClash Next已接近完成，全新UI，更简洁，更高效...
+
 ## MerlinClash Lite 稳定版发布，推荐更新
 ## ARM64版本今日更新
 
