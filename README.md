@@ -9,7 +9,7 @@
 #### 6. 优化布局，操作更高效，无广告
 
 
-#### https://t.me/MerlinClashchat
+#### https://t.me/准备中...
 
 
 
