@@ -1,15 +1,15 @@
 ## 用于华硕路由器官改、梅改固件，基于Mihomo的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2等方式科学上网。
-## 发布MCSmart，提供智能策略组支持
+#### 发布MCSmart，提供智能策略组支持
 
 #### 今日发布MCNext_ARM64插件。独有的Geosite和Geoip数据库使体验跃升，首次解决Fake-ip模式难题安装即用，搭配Smart智能策略组内核与专为MCNext定制的配置文件实现超简易的订阅方式...更多的使用体验待您发掘。
 
 
-## MCLite特点：
-## 1. 清除50%无用进程解决崩溃问题，提高插件运行效率
-## 2. 移除网易云音乐、Koolproxy、Dlercloud、KCP、Dns2Socks...
-## 3. 移除SubConverter，增加在线转换链接，减少jffs占用
-## 4. 优化DNS方案和Geo数据库，提升国内网络访问速度
-## 5. 调整优化插件UI，使操作更高效，且界面清爽无广告
+#### MCLite特点：
+#### 1. 清除50%无用进程解决崩溃问题，提高插件运行效率
+#### 2. 移除网易云音乐、Koolproxy、Dlercloud、KCP、Dns2Socks...
+#### 3. 移除SubConverter，增加在线转换链接，减少jffs占用
+#### 4. 优化DNS方案和Geo数据库，提升国内网络访问速度
+#### 5. 调整优化插件UI，使操作更高效，且界面清爽无广告
 
 
 #### https://t.me/MerlinClashchat
