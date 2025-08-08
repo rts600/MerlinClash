@@ -1,7 +1,7 @@
 ## 用于华硕路由器官改、梅改固件，基于Mihomo的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2等方式科学上网。
 ## 发布MCSmart，提供智能策略组支持
 
-## 今日发布MCNext_ARM64插件。独有的Geosite和Geoip数据库使体验跃升，首次解决Fake-ip模式难题安装即用，搭配Smart智能策略组内核与专为MCNext定制的配置文件实现超简易的订阅方式...更多的使用体验待您发掘。
+#### 今日发布MCNext_ARM64插件。独有的Geosite和Geoip数据库使体验跃升，首次解决Fake-ip模式难题安装即用，搭配Smart智能策略组内核与专为MCNext定制的配置文件实现超简易的订阅方式...更多的使用体验待您发掘。
 
 
 ## MCLite特点：
