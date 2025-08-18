@@ -1,157 +1,19 @@
 dns:
   enable: true
-  prefer-h3: true  
   ipv6: false
-  default-nameserver:
-    - tls://223.5.5.5
-    - 119.29.29.29
   listen: :23453
   enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter-mode: blacklist  
+  respect-rules: true
+  fake-ip-range: 198.18.0.1/16 
   fake-ip-filter:
-    #LAN
-    - '*.lan'
-    - '*.localdomain'
-    - '*.example'
-    - '*.invalid'
-    - '*.localhost'
-    - '*.test'
-    - '*.local'
-    - '*.home.arpa'
-    - '*.direct'
-    #放行NTP服务
-    - 'time.*.com'
-    - 'time.*.gov'
-    - 'time.*.edu.cn'
-    - 'time.*.apple.com'
-    - 'time-ios.apple.com'
-    - 'time1.*.com'
-    - 'time2.*.com'
-    - 'time3.*.com'
-    - 'time4.*.com'
-    - 'time5.*.com'
-    - 'time6.*.com'
-    - 'time7.*.com'
-    - 'ntp.*.com'
-    - 'ntp1.*.com'
-    - 'ntp2.*.com'
-    - 'ntp3.*.com'
-    - 'ntp4.*.com'
-    - 'ntp5.*.com'
-    - 'ntp6.*.com'
-    - 'ntp7.*.com'
-    - '*.time.edu.cn'
-    - '*.ntp.org.cn'
-    - '+.pool.ntp.org'
-    - 'time1.cloud.tencent.com'
-    #音乐
-    - 'music.163.com'
-    - '*.music.163.com'
-    - '*.126.net'
-    - 'musicapi.taihe.com'
-    - 'music.taihe.com'
-    - 'songsearch.kugou.com'
-    - 'trackercdn.kugou.com'
-    - '*.kuwo.cn'
-    - 'api-jooxtt.sanook.com'
-    - 'api.joox.com'
-    - 'joox.com'
-    - 'y.qq.com'
-    - '*.y.qq.com'
-    - 'streamoc.music.tc.qq.com'
-    - 'mobileoc.music.tc.qq.com'
-    - 'isure.stream.qqmusic.qq.com'
-    - 'dl.stream.qqmusic.qq.com'
-    - 'aqqmusic.tc.qq.com'
-    - 'amobile.music.tc.qq.com'
-    - '*.xiami.com'
-    - '*.music.migu.cn'
-    - 'music.migu.cn'
-    #win本地连接检测
-    - '+.msftconnecttest.com'
-    - '+.msftncsi.com'
-    #腾讯
-    - 'localhost.ptlogin2.qq.com'
-    - 'localhost.sec.qq.com'
-    - 'localhost.*.weixin.qq.com'
-    #Game
-    - '+.steamcontent.com'
-    - '+.srv.nintendo.net'
-    - '*.n.n.srv.nintendo.net'
-    - '+.cdn.nintendo.net'
-    - '+.stun.playstation.net'
-    - 'xbox.*.*.microsoft.com'
-    - '*.*.xboxlive.com'
-    - 'xbox.*.microsoft.com'
-    - 'xnotify.xboxlive.com'
-    - '+.battle.net'
-    - '+.battlenet.com.cn'
-    - '+.wotgame.cn'
-    - '+.wggames.cn'
-    - '+.wowsgame.cn'
-    - '+.wargaming.net'
-    #Golang
-    - 'proxy.golang.org'
-    #STUN
-    - 'stun.*.*'
-    - 'stun.*.*.*'
-    - '+.stun.*.*'
-    - '+.stun.*.*.*'
-    - '+.stun.*.*.*.*'
-    - '+.stun.*.*.*.*.*'
-    #Linksys Router
-    - 'heartbeat.belkin.com'
-    - '*.linksys.com'
-    - '*.linksyssmartwifi.com'
-    #ASUS Router
-    - '*.router.asus.com'
-    #Apple Software Update Service
-    - 'mesu.apple.com'
-    - 'swscan.apple.com'
-    - 'swquery.apple.com'
-    - 'swdownload.apple.com'
-    - 'swcdn.apple.com'
-    - 'swdist.apple.com'
-    #Google
-    - 'lens.l.google.com'
-    - 'stun.l.google.com'
-    - 'na.b.g-tun.com'
-    #Netflix
-    - '+.nflxvideo.net'
-    #Bilibili
-    - '*.mcdn.bilivideo.cn'
-    #Disney Plus
-    - '+.media.dssott.com'
-    #Mijia
-    - 'Mijia Cloud'
-    #Xiaomi
-    - '+.market.xiaomi.com'
-    #招商银行
-    - '+.cmbchina.com'
-    - '+.cmbimg.com'
-    #AdGuard
-    - 'adguardteam.github.io'
-    - 'adrules.top'
-    - 'anti-ad.net'
-    - 'local.adguard.org'
-    - 'static.adtidy.org'
-    #迅雷
-    - '+.sandai.net'
-    - '+.n0808.com'
-    #UU Plugin
-    - '+.uu.163.com'
-    - 'ps.res.netease.com'
-    #向日葵远程控制
-    - '+.oray.com'
-    - '+.orayimg.com'
-    #LOL语音
-    - '+.gcloudcs.com'
-    - '+.gcloudsdk.com'
-    - 'geosite: cn'|
+    - 'geosite:private,fakeip-filter,games,games-cn,cn'
+    
+  proxy-server-nameserver:
+    - https://223.5.5.5/dns-query
   nameserver-policy:
     '+.steampowered.com': '223.5.5.5'
-    '+.asuswrt-merlin.net': 'https://cloudflare-dns.com/dns-query'
+
   nameserver:
-    - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
+    - https://dns.google/dns-query
+    
