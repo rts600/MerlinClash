@@ -4,7 +4,7 @@
 
 #### 发布MCLite_ARMv7l稳定版，让老款路由器发挥余热。
 
-#### Smart内核不稳定，遇到问题请换回稳定版内核。
+#### Smart内核不稳定，遇到问题请换回内核。
 
 
 #### https://t.me/MerlinClashchat
