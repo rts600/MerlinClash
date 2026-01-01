@@ -1,6 +1,6 @@
 ## 用于华硕路由器官改、梅改固件，基于Mihomo的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2等方式科学上网。
 
-#### 发布MCNext系列插件。独有的Geosite和Geoip数据库使体验显著提升，首次解决Fake-ip模式难题安装即用，省心使用ChatGPT，简单易用无bug...更多的使用体验待您发掘。
+#### 发布MCNext系列插件。独有的Geosite和Geoip数据库使体验显著提升，首次解决Fake-ip模式难题，安装即用，省心使用ChatGPT，简单易用...更多的使用体验待您发掘。
 
 #### 发布MCLite_ARMv7l稳定版，让老款路由器发挥余热。
 
@@ -10,8 +10,6 @@
 #### https://t.me/MerlinClashchat
 #### <订阅群组后下载>
 #### 入群后请先查看置顶消息！！！
-
-## 迎双节，MCNext开放申请入群，新版本发布
 
 
 支持路由器列表：
