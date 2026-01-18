@@ -1,4 +1,4 @@
-## 用于华硕路由器官改、梅改固件，基于Mihomo的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2等方式科学上网。
+## 用于华硕路由器官改、梅改固件，基于Mihomo的科学上网插件。支持SS、SSR、V2Ray、Trojan、Vless、Hy2、AnyTLS等方式科学上网。
 
 #### 发布MCNext系列插件。独有的Geosite和Geoip数据库使体验显著提升，首次解决Fake-ip模式难题，安装即用，省心使用ChatGPT，简单易用...更多的使用体验待您发掘。
 
