@@ -29,7 +29,8 @@ ARM64:
 - TX-AX6000(天选)
 - TUF-AX4200q(小旋风Pro)
 - TUF-BE6500
-- GS7
+- GS7系列
+- GS Air
 - BE88U
 - BE86U
 
