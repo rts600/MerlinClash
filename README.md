@@ -4,7 +4,7 @@
 
 #### 发布MCLite_ARMv7l稳定版，老路由器发挥余热。
 
-#### Smart内核不稳定，遇到问题请换回内核。不解答Smart内核的问题。
+#### MCLite全版本更新，Zashboard Lite面板上线，数据库更新...
 
 
 #### https://t.me/MerlinClashchat
