@@ -2,8 +2,6 @@
 
 #### 发布MCNext系列插件。独有的Geosite和Geoip数据库使体验显著提升，首次解决Fake-ip模式难题，安装即用，省心使用ChatGPT，简单易用...更多的使用体验待您发掘。
 
-#### 发布MCLite_ARMv7l稳定版，老路由器发挥余热。
-
 #### MCLite全版本更新，Zashboard Lite面板上线，数据库更新...
 
 
