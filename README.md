@@ -50,3 +50,4 @@ ARMV7L - 386固件
 - AC87U
 - AC88U
 - RT-AC5300
+- K3
