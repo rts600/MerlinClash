@@ -26,7 +26,7 @@
 #### MCNext即将支持旁路由模式
 
 
-## Latest Update:
+## Latest Version:
 
 #### Zashboard Lite
 - 更新3.7.1版本
@@ -39,9 +39,7 @@
 #### MCNext
 - MCNext_ARM64_v2.73
 
- 
- 
- 
+
 ## 支持路由器列表：
 
 ARM64:
