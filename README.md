@@ -27,6 +27,7 @@
 
 
 ## Latest Update:
+
 #### Zashboard Lite更新3.7.1版本
 
 #### MCLite长期稳定版
@@ -38,7 +39,7 @@ MCLite_ARMv7l_v1.3长期稳定版
 MCNext_ARM64_v2.73
 
 
-支持路由器列表：
+## 支持路由器列表：
 
 ARM64:
 - AC86U
