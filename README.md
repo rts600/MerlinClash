@@ -29,7 +29,7 @@
 ## Latest Version:
 
 #### Zashboard Lite
-- 更新3.8.0版本
+- 更新3.10.1版本
 
 #### MCLite长期稳定版
 - MCLite_ARM64_v3.1长期稳定版
