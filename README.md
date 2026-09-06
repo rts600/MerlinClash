@@ -32,11 +32,16 @@
 - MCLite_ARM32_v3.1长期稳定版
 - MCLite_ARMv7l_v1.3长期稳定版
 
+- MCLite_ARM64_v3.2Beta
+  开启或关闭dns覆写
+  一键订阅升级
+  旁路由支持
+
 #### MCNext
 - MCNext_ARM64_v2.8
 
 #### Zashboard Lite
-- 更新3.10.1版本
+- 更新3.10.1版本  Final  后续版本配色不喜，不再跟进
 
 
 ## 支持路由器列表：
