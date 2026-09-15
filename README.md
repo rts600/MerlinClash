@@ -37,11 +37,20 @@
   一键订阅升级
   旁路由支持
 
+- mihomo压缩内核：1.19.31 ⭐⭐⭐⭐
+
 #### MCNext
 - MCNext_ARM64_v2.9 ⭐⭐⭐⭐⭐
+- 私有定制版内核：1.19.31 ⭐⭐⭐⭐⭐
 
 #### Zashboard Lite
 - 更新3.10.1版本  Final  后续版本配色不喜，不再跟进 ⭐⭐⭐⭐⭐
+
+#### Tailscale增强版
+- Tailscale Link v1.102 ⭐⭐⭐⭐⭐
+
+#### iPerf网络性能测试工具
+- iPerf ⭐⭐⭐⭐
 
 
 ## 支持路由器列表：
