@@ -32,11 +32,15 @@
 - MCLite_ARM32_v3.1长期稳定版 ⭐⭐⭐⭐
 - MCLite_ARMv7l_v1.3长期稳定版 ⭐⭐⭐⭐⭐
 
-- MCLite_ARM64_v3.21Beta ⭐⭐⭐⭐
-  开启或关闭dns覆写
-  一键订阅升级
-  旁路由支持
-
+- MCLite_ARM64_v3.22Beta ⭐⭐⭐⭐
+  修复: 启动时间不显示的Bug
+  修复: 一键订阅的Bug
+  升级: 使用定制版Mihomo内核
+  升级: 访问控制代码优化
+  新功能: 开启/关闭 DNS覆写
+  新功能: MCLite一键订阅
+  新功能: 旁路由支持
+  
 - mihomo压缩内核：1.19.31 ⭐⭐⭐⭐
 
 #### MCNext
