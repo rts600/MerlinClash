@@ -25,26 +25,19 @@
 #### MCNext已支持旁路由模式
 
 
-## Latest Version:
+## Latest Version: （国庆节全面更新）
 
+## MCLite频道：
 #### MCLite长期稳定版
-- MCLite_ARM64_v3.1长期稳定版 ⭐⭐⭐⭐
-- MCLite_ARM32_v3.1长期稳定版 ⭐⭐⭐⭐
-- MCLite_ARMv7l_v1.3长期稳定版 ⭐⭐⭐⭐⭐
-
-- MCLite_ARM64_v3.22Beta ⭐⭐⭐⭐
-  - 修复: 启动时间不显示的Bug
-  - 修复: 一键订阅的Bug
-  - 升级: 使用定制版Mihomo内核
-  - 升级: 访问控制代码优化
-  - 新功能: 开启/关闭 DNS覆写
-  - 新功能: MCLite一键订阅
-  - 新功能: 旁路由支持
+- MCLite_ARM64_v3.1R1长期稳定版 ⭐⭐⭐⭐
+- MCLite_ARMv7l_v1.3R1长期稳定版 ⭐⭐⭐⭐⭐
+- MCLite_ARM32_v3.1长期稳定版 ⭐⭐⭐⭐ (ARM32用户不厚道，不再公开发布，如有需要加入群组后索取)
   
-- mihomo压缩内核：1.19.31 ⭐⭐⭐⭐
+- mihomo压缩内核：1.19.32 ⭐⭐⭐⭐
 
+## MCNext频道：
 #### MCNext
-- MCNext_ARM64_v2.9R1 ⭐⭐⭐⭐⭐
+- MCNext_ARM64_v2.9R2 ⭐⭐⭐⭐⭐
   - 适配1.9.58软件中心
   - 修复部分路由器重启时插件启动错误的问题
   - 连通性检查脚本重构，速度显著提升
@@ -63,7 +56,18 @@
   - 脚本代码重构
   - 支持旁路由模式
 
-- 私有定制版内核：1.19.31 ⭐⭐⭐⭐⭐
+#### MCLite长期稳定版
+- MCLite_ARMv7l_v1.4长期稳定版 ⭐⭐⭐⭐⭐
+- MCLite_ARM32_v3.2长期稳定版 ⭐⭐⭐⭐
+
+- MCLite_ARM64_v3.2Plus ⭐⭐⭐⭐🌟
+  - 升级: 使用定制版Mihomo内核
+  - 升级: 访问控制代码优化
+  - 新功能: 开启/关闭 DNS覆写
+  - 新功能: MCLite一键订阅
+  - 新功能: 旁路由支持
+
+- 私有定制版内核：1.19.32 ⭐⭐⭐⭐⭐
 
 #### Zashboard Lite
 - 更新3.10.1版本  Final  后续版本配色不喜，不再跟进 ⭐⭐⭐⭐⭐
@@ -89,8 +93,8 @@ ARM64:
 - AX86U pro
 - AX88U pro
 - GT-AX6000
-- TX-AX6000(天选)
-- TUF-AX4200q(小旋风Pro)
+- TX-AX6000
+- TUF-AX4200q
 - TUF-BE6500
 - GS7系列
 - GS Air
