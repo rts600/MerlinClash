@@ -56,7 +56,7 @@
   - 脚本代码重构
   - 支持旁路由模式
 
-#### MCLite长期稳定版
+#### MCLite
 - MCLite_ARMv7l_v1.4长期稳定版 ⭐⭐⭐⭐⭐
 - MCLite_ARM32_v3.2长期稳定版 ⭐⭐⭐⭐
 
